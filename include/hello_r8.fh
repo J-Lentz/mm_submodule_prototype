@@ -1,0 +1,5 @@
+#define KIND_ 8
+#define HELLO_MOD_IMPL_ hello_mod_r8
+
+#define HELLO_WORLD_ hello_world_r8
+#define STRING_ string_r8

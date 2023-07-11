@@ -1,0 +1,5 @@
+#undef KIND_
+#undef HELLO_MOD_IMPL_
+
+#undef HELLO_WORLD_
+#undef STRING_

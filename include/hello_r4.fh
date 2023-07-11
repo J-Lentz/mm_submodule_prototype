@@ -1,0 +1,5 @@
+#define KIND_ 4
+#define HELLO_MOD_IMPL_ hello_mod_r4
+
+#define HELLO_WORLD_ hello_world_r4
+#define STRING_ string_r4
